@@ -22,6 +22,7 @@ end
 
 gem "bundler", "~> 2.3.0"
 gem "rake", "~> 12.0"
+gem "kramdown-parser-gfm"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
