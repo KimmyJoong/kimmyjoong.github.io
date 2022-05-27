@@ -1,9 +1,10 @@
 title: Sungjoong Kim
 author:
   name: KimmyJoong
-  email: sjkim.aero@gmail.com | halbum@kaist.ac.kr
+  email: sjkim.aero@gmail.com; halbum@kaist.ac.kr
 description: > # this means to ignore newlines until "show_excerpts:"
-  KimmyJoong's blog is powered by [Jekyll](https://github.com/jekyll) with [minima](https://github.com/jekyll/minima) theme. Hosted by [GitHub Pages](https://pages.github.com/)
+  KimmyJoong's blog is powered by [Jekyll](https://github.com/jekyll) with [minima](https://github.com/jekyll/minima) theme. 
+  Hosted by [GitHub Pages](https://pages.github.com/)
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -14,8 +15,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    # twitter: jekyllrb
+    github:  KimmyJoong
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -47,8 +48,8 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+ - about.md
 
 # Build settings
 theme: minima
